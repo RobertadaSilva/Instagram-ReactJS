@@ -42,6 +42,8 @@ export function Story() {
 
             </div>
 
+
+
             <div className="user-elements" >
 
             <div>
@@ -52,17 +54,44 @@ export function Story() {
 
             </div>
 
+
+
+
+            <div className="user-elements" >
+
+            <div>
+                <img className="image-user-story" src={fotozendaya}  />
+            </div>
+
+            <span>zendaya</span>
+
+
+
+            </div>
+
+            <div className="user-elements" >
+
+            <div>
+                <img className="image-user-story" src={fotozendaya}  />
+            </div>
+
+            <span>zendaya</span>
+
+
+
+            </div>
+
+
             <div className="user-elements" >
 
 <div>
-    <img className="image-user-story" src={fotozendaya}  />
+    <img className="image-user-story" src={fotocristiano} />
 </div>
 
-<span>zendaya</span>
-
-
+<span>CR7</span>
 
 </div>
+
 
 
             
